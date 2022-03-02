@@ -1,0 +1,48 @@
+{
+    "projects": [
+        {
+            "id": "0",
+            "project_name": "Random Quotes",
+            "description": "Display a new random quotes by famous people each time the button is clicked",
+            "technologies": [
+                "Javascript",
+                "HTML"
+            ],
+            "image_urls": [
+                "./images/randomQuote_landing.JPG",
+                "./images/randomQuote_1.JPG",
+                "./images/randomQuote_2.JPG"
+            ]
+        },
+        {
+            "id": "1",
+            "project_name": "Pagination",
+            "description": "Build a page with long list of students' information with pagination feature",
+            "technologies": [
+                "Javascript",
+                "HTML",
+                "CSS"
+            ],
+            "image_urls": [
+                "./images/pagination_landing.JPG",
+                "./images/pagination_1.JPG",
+                "./images/pagination_2.JPG"
+            ]
+        },
+        {
+            "id": "2",
+            "project_name": "BMI calculator",
+            "description": "Build an app to calculate BMI index based on users' weight and height by NodeJS",
+            "technologies": [
+                "Node.js",
+                "HTML",
+                "CSS"
+            ],
+            "image_urls": [
+                "./images/bmiCalculator_landing.JPG",
+                "./images/bmiCalculator_1.JPG",
+                "./images/bmiCalculator_2.JPG"
+            ]
+        }
+    ]
+}
